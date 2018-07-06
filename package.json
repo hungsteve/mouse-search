@@ -1,0 +1,18 @@
+{
+  "name": "drgnz-search",
+  "version": "1.0.0",
+  "description": "Drgnz's Search",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass sass/main.scss css/style.css -w"
+  },
+  "keywords": [
+    "search",
+    "drgnz"
+  ],
+  "author": "hungsteve",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.9.1"
+  }
+}
